@@ -1,0 +1,4 @@
+# Имя сервера регистрации в velocity.toml [servers]
+next-server: auth
+captcha-seconds: 60
+max-attempts: 3

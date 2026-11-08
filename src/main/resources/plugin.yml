@@ -1,0 +1,8 @@
+name: TeamGriefCaptcha
+version: 1.0.0
+main: ru.teamgrief.captcha.TeamGriefCaptcha
+api-version: '1.21'
+author: TeamGrief
+permissions:
+  teamgriefcaptcha.bypass:
+    default: false
